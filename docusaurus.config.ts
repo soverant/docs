@@ -18,6 +18,8 @@ const config: Config = {
   organizationName: 'Soverant', // Usually your GitHub org/user name.
   projectName: 'Documents', // Usually your repo name.
 
+  deploymentBranch: 'gh-pages',
+
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
@@ -86,7 +88,7 @@ const config: Config = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/docs/intro',
+              to: '/docs/intro',
             },
           ],
         },
