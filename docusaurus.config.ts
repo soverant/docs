@@ -53,12 +53,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/logo.svg',
     navbar: {
-      title: 'My Site',
+      title: 'Soverant',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Soverant Logo',
+        src: 'img/logo.png',
       },
       items: [
         {
@@ -98,8 +98,8 @@ const config: Config = {
               href: 'https://discordapp.com/invite/soverant',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/soverant',
+              label: 'X',
+              href: 'https://x.com/soverant',
             },
           ],
         },
