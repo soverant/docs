@@ -48,3 +48,6 @@ Tabnine is primed to meet the rising demand for AI-driven development tools, poi
 **Demo:**
 [Watch Tabnine in Action](https://www.youtube.com/embed/9SUceq-dmu8)
 <iframe width="480" height="290" src="https://www.youtube.com/embed/9SUceq-dmu8" title="Coding with an AI coding assistant: Tabnine showcases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Sources
+[techcrunch](https://techcrunch.com/2023/11/08/code-generating-ai-platform-tabnine-nabs-25m-investment/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAGkM5pOo_nSF5H2wsbKdQrvuKtsCrRKw7nOK8IQXwz2wz5f9x8gi7YnygRKEvIa81Q6otlKx29YxEo12HX-VY_Vdox-NV6skLrShU0DbkZn6OBdk3XJQSmJnbIbw5_wv3syaSuoQGZJRvZWiw8L-zGUO96x-xIrQHeofnZeKNNtt)
