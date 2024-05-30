@@ -78,15 +78,6 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Market',
-              to: '/docs/market',
-            },
-          ],
-        },
-        {
           title: 'Community',
           items: [
             {
