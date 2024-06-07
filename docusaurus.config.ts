@@ -43,7 +43,11 @@ const config: Config = {
           editUrl:
             'https://github.com/soverant/docs/tree/main/docs',
         },
-        blog: false,
+        blog: {
+          blogTitle: 'Docusaurus blog!',
+          blogDescription: 'A Docusaurus powered blog!',
+          postsPerPage: 'ALL',
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -61,6 +65,7 @@ const config: Config = {
         src: 'img/logo.png',
       },
       items: [
+        {to: 'blog', label: 'Blog', position: 'left'},
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
